@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-Binary classification model to predict customer churn using the Telco Customer Churn dataset. Built during Internspark AI internship.
+Binary classification model to predict customer churn using the Telco Customer Churn dataset. Built during Alfido Tech AI internship.
 
 ## Overview
 - **Problem:** Predict whether a customer will churn based on demographics, account info, and service usage.
